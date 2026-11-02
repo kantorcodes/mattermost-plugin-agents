@@ -1,7 +1,7 @@
 // Copyright (c) 2023-present Mattermost, Inc. All Rights Reserved.
 // See LICENSE.txt for license information.
 
-// Package mcp provides a client for the Model Control Protocol (MCP) that allows
+// Package mcp provides a client for the Model Context Protocol (MCP) that allows
 // the AI plugin to access external tools provided by MCP servers.
 //
 // The UserClients represents a single user's connection to multiple MCP servers.
